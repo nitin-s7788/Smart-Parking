@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/nitin-s7788/smartParkingNitin/static/css/main.3928534e.css",
+    "main.js": "/nitin-s7788/smartParkingNitin/static/js/main.2a4271f4.js",
+    "index.html": "/nitin-s7788/smartParkingNitin/index.html",
+    "main.3928534e.css.map": "/nitin-s7788/smartParkingNitin/static/css/main.3928534e.css.map",
+    "main.2a4271f4.js.map": "/nitin-s7788/smartParkingNitin/static/js/main.2a4271f4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3928534e.css",
+    "static/js/main.2a4271f4.js"
+  ]
+}
